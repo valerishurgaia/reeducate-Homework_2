@@ -1,0 +1,1 @@
+# Homework #2 about selectors in CSS.
