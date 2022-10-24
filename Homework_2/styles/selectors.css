@@ -1,0 +1,45 @@
+/**
+ * Don't change any of the properties. Only replace anywhere it says '**selector goes here**' with the appropriate selector
+*/
+
+header {
+    letter-spacing: 10px;
+  }
+  
+.red {
+    background-color: red;
+  }
+  
+.blue {
+    background-color: blue;
+  }
+  
+.purple {
+    background-color: purple;
+  }
+  
+.red, .blue, .purple  {
+    float: left;
+    width: 100px;
+    height: 100px;
+  }
+  
+#green-border {
+    border: solid 4px green;
+  }
+  
+input[type="text"] {
+    border: solid 2px black;
+    border-radius: 10px;
+    
+  }
+  
+input[type="email"] {
+    border: solid 3px gray;
+    border-radius: 5px;
+  }
+  
+  /* This selector should stay here */
+  form {
+    clear: left;
+  }

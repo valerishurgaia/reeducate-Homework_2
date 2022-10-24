@@ -1,0 +1,28 @@
+
+/* Part 1/4 */
+.part-one, a[href*="#"] {
+    color: green;
+}
+
+/* Part 2/4 */
+.part-two span {
+    color: red;
+}
+
+/* Part 3/4 */
+.part-three .background-yellow{
+    background-color: yellow;
+}
+.part-three .background-pink {
+    background-color: pink;
+}
+
+/* Part 4/4 */
+.part-four .background-yellow .red-text {
+    color: red;
+}
+.part-four .background-pink .blue-text {
+    color: blue;
+}
+
+
